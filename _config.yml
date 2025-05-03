@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Qi Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor"
   location         : "Xi'an, Shaanxi"
   employer         : "Chang'an University"
-  uri              : # URL
+  uri              : ”https://js.chd.edu.cn/lxy/lq8/main.psp“ # URL
   email            : "liqihao@chd.edu.cn" 
 
   # Academic websites
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-8835-8098"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : ”https://www.researchgate.net/profile/Qi-Li-37?ev=hdr_xprf“
+  researchgate     : "https://www.researchgate.net/profile/Qi-Li-37?ev=hdr_xprf" # URL
   scopus           : # URL
 
   # Repositories and software development
