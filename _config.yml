@@ -28,8 +28,8 @@ author:
   bio              : "Associate Professor"
   location         : "Xi'an, Shaanxi, China"
   employer         : "Chang'an University"
-  uri              : ”https://js.chd.edu.cn/lxy/lq8/main.psp“ # URL
-  email            : "liqihao@chd.edu.cn" 
+  uri              : "https://js.chd.edu.cn/lxy/lq8/main.psp" # URL
+  email            : "liqihao@chd.edu.cn" # URL
 
   # Academic websites
   academia         : # URL
