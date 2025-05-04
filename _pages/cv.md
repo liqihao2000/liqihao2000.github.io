@@ -27,34 +27,32 @@ redirect_from:
 
 # Work Experience
 
-### Associate Professor  
-**School of Science, Chang'an University** | Xi'an, China  
-*Dec 2022 - Present*  
-- Teaching: Numerical Methods, Parallel Computing  
-- Research: PI of NSFC Grant #XXXX (2023–2026) on "Multiphysics Coupling"  
-- Supervision: 3 Master's students, 1 awarded *Best Thesis*  
+- ### Associate Professor  
+  **School of Science, Chang'an University** | Xi'an, China  
+  *Dec 2022 - Present*  
+  <!-- - Teaching: Numerical Methods, Parallel Computing  
+  - Research: PI of NSFC Grant #XXXX (2023–2026) on "Multiphysics Coupling"  
+  - Supervision: 3 Master's students, 1 awarded *Best Thesis*   -->
 
-### Assistant Professor  
+- ### Assistant Professor  
 **School of Science, Chang'an University** | Xi'an, China  
 *Aug 2020 - Dec 2022*  
-- Developed open-source solver [工具名](GitHub链接) (500+ stars)  
-- Collaborated with [合作单位] on industrial CFD projects  
+<!-- - Developed open-source solver [工具名](GitHub链接) (500+ stars)  
+- Collaborated with [合作单位] on industrial CFD projects   -->
 
 # Academic Experience
 
-### Visiting Scholar (CSC Funded)  
-**National University of Singapore** | Singapore  
-*Feb 2025 - Feb 2026*  
-- **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
-- **Research**: Machine learning-enhanced multiphase flow simulations  
-- **Funding**: CSC Scholarship (No. XXXX)  
+- ### Visiting Scholar (CSC Funded)  
+  **National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
+  - **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+  <!-- - **Research**: Machine learning-enhanced multiphase flow simulations  
+  - **Funding**: CSC Scholarship (No. XXXX)   -->
 
-### Visiting Ph.D. Student (CSC Funded)  
-**University of South Carolina** | Columbia, SC, USA  
-*Sep 2018 - May 2020*  
-- **Host**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
-- **Research**: Adaptive time-stepping for fluid-structure interaction  
-- **Outcomes**: 2 papers in *Journal of Computational Physics*  
+- ### Visiting Ph.D. Student (CSC Funded)  
+  **University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
+  - **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+  <!-- - **Research**: Adaptive time-stepping for fluid-structure interaction  
+  - **Outcomes**: 2 papers in *Journal of Computational Physics*   -->
 
 
 
