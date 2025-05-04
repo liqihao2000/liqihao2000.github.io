@@ -18,7 +18,7 @@ Education
 * School of Mathematics and Statistics, Lanzhou University, Sept. 2009 - Jun. 2013
   * B.S. in Mathematics and Applied Mathematics
 
-Work experience
+Work Experience
 ======
 * Dec. 2022 - Present: Associate Professor
   * School of Science, Chang'an University, Xi'an, Chian
@@ -26,7 +26,7 @@ Work experience
 * Aug. 2020 - Dec. 2022: Assistant Professor
   * School of Science, Chang'an University, Xi'an, Chian
 
-Academic experience
+Academic Experience
 ======
 - Department of Mathematics, National University of Singapore, Singapore.   Feb. 2025  - Feb. 2026
   - Visiting Ph.D. Student, Supervisor: Prof. [Xiaofeng Yang](https://people.math.sc.edu/xfyang/index.html)
