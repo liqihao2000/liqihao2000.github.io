@@ -19,18 +19,17 @@ Education
 
 Work experience
 ======
+<!--
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
+-->
 * Dec. 2022 - Present: Associate Professor
-  * School of Science
-  * Chang'an University
+  * School of Science, Chang'an University
 
 * Aug. 2020 - Dec. 2022: Assistant Professor
-  * School of Science
-  * Chang'an University
+  * School of Science, Chang'an University
   
 Skills
 ======
