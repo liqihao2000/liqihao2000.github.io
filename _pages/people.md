@@ -46,7 +46,7 @@ author_profile: true
   - Ms. Huiyi Chen (陈荟奕): 脂质囊泡相场模型的保结构方法
   - Ms. Chenyuan He (何晨媛): 流体耦合 PFC 模型的数值算法
   - Mr. Jiaming Sun (孙嘉明): 求解非局域非线性薛定谔方程的特征值问题
-  - Mr. Yunpeng Zhu (朱云鹏): 基于神经网络的PDE 数值求解方法研究
+  - Mr. Yunpeng Zhu (朱云鹏): 基于神经网络的 PDE 数值求解方法研究
 
 - 2023届
   - Mr. Yanqing He (贺彦清): 不可压流体耦合多相脂质囊泡系统的高效算法

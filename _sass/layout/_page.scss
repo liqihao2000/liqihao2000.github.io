@@ -12,8 +12,8 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    // max-width: $x-large;
-    max-width: 1400px;
+    max-width: $x-large;
+    // max-width: 1400px;
   }
 }
 
@@ -135,8 +135,8 @@
       padding-right: 1em;
 
       @include breakpoint($x-large) {
-        // max-width: $x-large;
-        max-width: 1400px;
+        max-width: $x-large;
+        // max-width: 1400px;
       }
     }
 
