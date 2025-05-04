@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 - Jun. 2020
-  * Supervisor: Liquan Mei
-* M.S. in Computational Mathematics, Lanzhou University, Sept. 2013 - Jun. 2016
-  * Supervisor: Yubing Zhou
-* B.S. in Mathematics and Applied Mathematics, Lanzhou University, Sept. 2009 - Jun. 2013
+* School of Mathematics and Statistics, Xi'an Jiaotong University, Sept. 2016 - Jun. 2020
+  * Ph.D in Computational Mathematics, Supervisor: Prof. Liquan Mei
+* School of Mathematics and Statistics, Lanzhou University, Sept. 2013 - Jun. 2016
+  * M.S. in Computational Mathematics, Supervisor: Prof.Yubing Zhou
+* School of Mathematics and Statistics, Lanzhou University, Sept. 2009 - Jun. 2013
+  * B.S. in Mathematics and Applied Mathematics
 
 Work experience
 ======
