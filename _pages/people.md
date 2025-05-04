@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
-# title: "Yue Wu's Research Page"
-permalink: /research/
+# title: "Qi's Group Members"
+permalink: /people/
 author_profile: true
 ---
 
@@ -9,19 +9,37 @@ author_profile: true
 <!--{% include toc %} -->
 ---
 
-# Research Interests 
+# Graduate Students 
+## Current Master Students
 
-1. Numerical Solutions for Partial Differential Equation (PDEs): 
-   - Finite element methods 
-   - Spectral methods 
-   - Finite difference methods 
-2. Phase-Field model: 
-   - Crystal Growth
-   - Surfactant 
-   - Multiphase Flow
-   - Lipid Vesicle
+1. Ms. *Mengchun Yuan* (Master Student, 2023–)
+    <!--    - B.Sc. from South China University of Technology  -->
+   - Research Topic: 
+   - Email:
+   - First Job:
+   - Now:
+   - 
+2. Ms. *Jingjing Song* (2024–Present)
+    <!--    - B.Sc. from South China University of Technology  -->
+   - Research Topic: 
+   - Email:
+   - First Job:
+   - Now:
+   - 
+3. Mr. *Junjie Liu* (2024–Present)
+    <!--    - B.Sc. from South China University of Technology  -->
+    - Research Topic: 
+   - Email:
+   - First Job:
+   - Now:
+   - 
+
+## Graduated Master Students
 
 ---
+
+## Undergraduate Students
+
 
 <!--
 
