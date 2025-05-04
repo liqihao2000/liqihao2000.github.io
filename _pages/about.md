@@ -39,7 +39,7 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
   **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
 
 
-# Contact
+# Contact Information
 Qi Li  
 Email: liqihao@chd.edu.cn    
 School of Science, Chang'an University  
