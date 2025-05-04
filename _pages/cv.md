@@ -13,30 +13,26 @@ redirect_from:
 
 
 - ### Ph.D. in Computational Mathematics  
-  **Xi'an Jiaotong University** | Xi'an, China  *Sep 2016 - Jun 2020*  
+  **Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
   - **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
-  <!-- - **Thesis**: [High-Order Adaptive Methods for Phase Field Models](链接)  
-  - **Research Focus**: GPU acceleration, Energy-stable algorithms   -->
 
 - ### M.S. in Computational Mathematics  
-  **Lanzhou University** | Lanzhou, China  *Sep 2013 - Jun 2016*  
+  **Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
   - **Supervisor**: Prof. Yubing Zhou  
 
 - ### B.S. in Mathematics and Applied Mathematics  
-  **Lanzhou University** | Lanzhou, China  *Sep 2009 - Jun 2013*  
+  **Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
 
 # Work Experience
 
 - ### Associate Professor  
-  **School of Science, Chang'an University** | Xi'an, China  
-  *Dec 2022 - Present*  
+  **School of Science, Chang'an University** | Xi'an, China  |  *Dec 2022 - Present*  
   <!-- - Teaching: Numerical Methods, Parallel Computing  
   - Research: PI of NSFC Grant #XXXX (2023–2026) on "Multiphysics Coupling"  
   - Supervision: 3 Master's students, 1 awarded *Best Thesis*   -->
 
 - ### Assistant Professor  
-**School of Science, Chang'an University** | Xi'an, China  
-*Aug 2020 - Dec 2022*  
+**School of Science, Chang'an University** | Xi'an, China | *Aug 2020 - Dec 2022*  
 <!-- - Developed open-source solver [工具名](GitHub链接) (500+ stars)  
 - Collaborated with [合作单位] on industrial CFD projects   -->
 
