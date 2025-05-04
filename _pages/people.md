@@ -9,24 +9,24 @@ author_profile: true
 <!--{% include toc %} -->
 ---
 
-# Graduate Students 
+# Qi's Group Members
 ## Current Master Students
 
-1. Ms. *Mengchun Yuan* (Master Student, 2023–)
+1. Ms. **Mengchun Yuan** (Master Student, 2023–)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: 
    - Email:
    - First Job:
    - Now:
    - 
-2. Ms. *Jingjing Song* (2024–Present)
+2. Ms. **Jingjing Song** (2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: 
    - Email:
    - First Job:
    - Now:
    - 
-3. Mr. *Junjie Liu* (2024–Present)
+3. Mr. **Junjie Liu** (2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
     - Research Topic: 
    - Email:
@@ -36,9 +36,26 @@ author_profile: true
 
 ## Graduated Master Students
 
----
 
 ## Undergraduate Students
+
+- 2024届
+  - Huiyi Chen (陈荟奕)
+  - Chenyuan He (何晨媛)
+  - Jiaming Sun (孙嘉明)
+  - Yunpeng Zhu (朱云鹏)
+
+- 2023届
+  - Yanqing He (贺彦清)
+  - Jiayu Liu (刘嘉煜)
+
+- 2022届
+  - Jinyi Luo (罗锦仪)
+  - Jinglei Ren (任晶磊)
+
+- 2021届
+  - Guixia Hao (郝贵霞)
+  - Xiaohan Mu (穆晓寒)
 
 
 <!--
