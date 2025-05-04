@@ -33,8 +33,6 @@ redirect_from:
 
 - ### Visiting Scholar (CSC Funded)  &nbsp;&nbsp; **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
   **Department of Mathematics, National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
-  - 
 
 - ### Visiting Ph.D. Student (CSC Funded) &nbsp;&nbsp;  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
   **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
-  - 
