@@ -12,13 +12,11 @@ redirect_from:
 # Education
 
 
-- ### Ph.D. in Computational Mathematics  
+- ### Ph.D. in Computational Mathematics  **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
   **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
-  - **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
 
-- ### M.S. in Computational Mathematics  
+- ### M.S. in Computational Mathematics  **Supervisor**: Prof. Yubing Zhou  
   **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
-  - **Supervisor**: Prof. Yubing Zhou  
 
 - ### B.S. in Mathematics and Applied Mathematics  
   **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
@@ -33,13 +31,13 @@ redirect_from:
 
 # Academic Experience
 
-- ### Visiting Scholar (CSC Funded)  
-  **National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
-  - **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+- ### Visiting Scholar (CSC Funded)  **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+  **Department of Mathematics, National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
+  - 
 
-- ### Visiting Ph.D. Student (CSC Funded)  
-  **University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
-  - **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+- ### Visiting Ph.D. Student (CSC Funded)  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+  **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
+  - 
 
 
 
