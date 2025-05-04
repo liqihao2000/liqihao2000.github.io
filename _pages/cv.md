@@ -11,22 +11,19 @@ redirect_from:
 
 # Education
 
-### Ph.D. in Computational Mathematics  
-**Xi'an Jiaotong University** | Xi'an, China  
-*Sep 2016 - Jun 2020*  
-- **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
-- **Thesis**: [High-Order Adaptive Methods for Phase Field Models](链接)  
-- **Research Focus**: GPU acceleration, Energy-stable algorithms  
 
-### M.S. in Computational Mathematics  
-**Lanzhou University** | Lanzhou, China  
-*Sep 2013 - Jun 2016*  
-- **Supervisor**: Prof. Yubing Zhou  
-- **Thesis**: Finite Element Analysis of Nonlinear PDEs  
+- ### Ph.D. in Computational Mathematics  
+  **Xi'an Jiaotong University** | Xi'an, China  *Sep 2016 - Jun 2020*  
+  - **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
+  <!-- - **Thesis**: [High-Order Adaptive Methods for Phase Field Models](链接)  
+  - **Research Focus**: GPU acceleration, Energy-stable algorithms   -->
 
-### B.S. in Mathematics and Applied Mathematics  
-**Lanzhou University** | Lanzhou, China  
-*Sep 2009 - Jun 2013*  
+- ### M.S. in Computational Mathematics  
+  **Lanzhou University** | Lanzhou, China  *Sep 2013 - Jun 2016*  
+  - **Supervisor**: Prof. Yubing Zhou  
+
+- ### B.S. in Mathematics and Applied Mathematics  
+  **Lanzhou University** | Lanzhou, China  *Sep 2009 - Jun 2013*  
 
 # Work Experience
 
