@@ -11,17 +11,39 @@ author_profile: true
 
 # Research Interests 
 
-1. Numerical Solutions for Partial Differential Equation (PDEs): 
-   - Finite element methods 
-   - Spectral methods 
-   - Finite difference methods 
-2. Phase-Field model: 
-   - Crystal Growth
-   - Surfactant 
-   - Multiphase Flow
-   - Lipid Vesicle
+1. Numerical Methods for Partial Differential Equation (PDEs):  
+   Finite element methods &nbsp;&nbsp; Spectral methods &nbsp;&nbsp; Finite difference methods 
+2. Phase-Field model:  
+Crystal Growth &nbsp;&nbsp; Surfactant &nbsp;&nbsp; Multiphase Flow &nbsp;&nbsp; Lipid Vesicle
+3. Computational Fluid Dynamics and Computational Materials Science
 
 ---
+
+# Grants & Funding
+
+- **China Postdoctoral Science Foundation**   
+  No. 2023M730359 | 2023–2024 | ¥80,000 | **PI**.
+
+- **Fundamental Research Funds for the Central Universities, CHD**   
+  No. 300102123103 | 2023–2024 | ¥50,000 | **PI**.
+
+- **Shaanxi Fundamental Science Research Project for Mathematics and Physics**   
+  No. 22JSQ021 | 2023–2024 | ¥50,000 | **PI**.
+
+- **National Natural Science Foundation of China (NSFC) Youth Program (C)**   
+  No. 12101073 | 2022–2024 | ¥300,000 | **PI**.
+
+- **Fundamental Research Funds for the Central Universities, CHD**   
+  No. 300102121302 | 2021–2022 | ¥80,000 | **PI**.
+  
+
+<!-- - **NSFC General Program** (No. 87654321) | 2020–2023 | ¥800,000  
+  *Parallel computing for multiphysics systems*. Co-developed [CFD-Solver](https://github.com/xxx), **Co-PI**. -->
+
+
+
+
+
 
 <!--
 
