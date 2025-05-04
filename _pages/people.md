@@ -28,7 +28,7 @@ author_profile: true
    - 
 3. Mr. **Junjie Liu (刘俊杰)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
-    - Research Topic: 
+   - Research Topic: 
    - Email:
    - First Job:
    - Now:
@@ -39,26 +39,26 @@ author_profile: true
 
 ## Undergraduate Students
 - 2025
-  - Juncheng Yang (杨骏成)
-  - Anxu Zhao (赵安旭)
+  - 2025 Juncheng Yang (杨骏成):
+  - Anxu Zhao (赵安旭):
 
 - 2024届
-  - Huiyi Chen (陈荟奕)
-  - Chenyuan He (何晨媛)
-  - Jiaming Sun (孙嘉明)
-  - Yunpeng Zhu (朱云鹏)
+  - Huiyi Chen (陈荟奕): 脂质囊泡相场模型的保结构方法
+  - Chenyuan He (何晨媛): 流体耦合 PFC 模型的数值算法
+  - Jiaming Sun (孙嘉明): 求解非局域非线性薛定谔方程的特征值问题
+  - Yunpeng Zhu (朱云鹏): 基于神经网络的PDE 数值求解方法研究
 
 - 2023届
-  - Yanqing He (贺彦清)
-  - Jiayu Liu (刘嘉煜)
+  - Yanqing He (贺彦清): 不可压流体耦合多相脂质囊泡系统的高效算法
+  - Jiayu Liu (刘嘉煜): 变密度变粘度流体耦合脂质囊泡系统的解耦算法
 
 - 2022届
-  - Jinyi Luo (罗锦仪)
-  - Jinglei Ren (任晶磊)
+  - Jinyi Luo (罗锦仪): 脂质囊泡流动耦合模型的解耦算法
+  - Jinglei Ren (任晶磊): 三组分相场模型的能量稳定格式
 
 - 2021届
-  - Guixia Hao (郝贵霞)
-  - Xiaohan Mu (穆晓寒)
+  - Guixia Hao (郝贵霞): Possion 方程和热传导方程的快速有限差分方法
+  - Xiaohan Mu (穆晓寒): 梯度流方程能量稳定数值格式的 Python 实现
 
 
 <!--
