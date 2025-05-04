@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "Yue Wu's Research Page"
+# title: "Yue Wu's Research Page"
 permalink: /research/
 author_profile: true
 ---
@@ -11,16 +11,19 @@ author_profile: true
 
 # Research Interests 
 
-1. High-order numerical methods for PDEs: 
+1. Numerical Methods for Partial Differential Equation (PDEs): 
    - Finite element methods 
-   - Discontinuous Galerkin methods 
    - Spectral methods 
-   - Finite difference / volume methods 
-2. Scientific computing: 
-   - Parallel numerical solvers 
-   - Iterative methods 
+   - Finite difference methods 
+2. Phase-Field model: 
+   - Crystal Growth
+   - Surfactant 
+   - Multiphase Flow
+   - Lipid Vesicle
 
 ---
+
+<!--
 
 
 # Research Experiences 
@@ -174,3 +177,7 @@ arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"
 | p-Laplace | arbitrary-degree LDG | 1D interval | arbitrary Cartesian | Matlab |
 | p-Laplace | arbitrary-degree LDG | 2D polygon | triangular | Matlab |
 | mixed FEM | arbitrary-degree FEM | 2D polygon | triangular | MFEM |
+
+
+
+-->
