@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* School of Mathematics and Statistics, Xi'an Jiaotong University, Sept. 2016 - Jun. 2020
+* School of Mathematics and Statistics, Xi'an Jiaotong University, Xi'an, China Sept. 2016 - Jun. 2020
   * Ph.D in Computational Mathematics, Supervisor: Prof. [Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)
-* School of Mathematics and Statistics, Lanzhou University, Sept. 2013 - Jun. 2016
+* School of Mathematics and Statistics, Lanzhou University, Lanzhou, China. Sept. 2013 - Jun. 2016
   * M.S. in Computational Mathematics, Supervisor: Prof.Yubing Zhou
-* School of Mathematics and Statistics, Lanzhou University, Sept. 2009 - Jun. 2013
+* School of Mathematics and Statistics, Lanzhou University, Lanzhou, China. Sept. 2009 - Jun. 2013
   * B.S. in Mathematics and Applied Mathematics
 
 Work Experience
 ======
 * Dec. 2022 - Present: Associate Professor
-  * School of Science, Chang'an University, Xi'an, Chian
+  * School of Science, Chang'an University, Xi'an, China
 
 * Aug. 2020 - Dec. 2022: Assistant Professor
-  * School of Science, Chang'an University, Xi'an, Chian
+  * School of Science, Chang'an University, Xi'an, China
 
 Academic Experience
 ======
