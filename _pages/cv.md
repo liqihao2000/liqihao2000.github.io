@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,19 +20,21 @@ Education
 
 Work experience
 ======
-<!--
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
--->
 * Dec. 2022 - Present: Associate Professor
-  * School of Science, Chang'an University
+  * School of Science, Chang'an University, Xi'an, Chian
 
 * Aug. 2020 - Dec. 2022: Assistant Professor
-  * School of Science, Chang'an University
+  * School of Science, Chang'an University, Xi'an, Chian
+
+Academic experience
+======
+- Department of Mathematics, National University of Singapore, Singapore.   Feb. 2025  - Feb. 2026
+  - Visiting Ph.D. Student, Supervisor: Prof. [Xiaofeng Yang](https://people.math.sc.edu/xfyang/index.html)
+- Department of Mathematics, University of South Carolina, Columbia, SC.   Sept. 2018  - May. 2020
+  - Visiting Ph.D. Student, Supervisor: Prof. [Xiaofeng Yang](https://people.math.sc.edu/xfyang/index.html)
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -57,7 +59,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
