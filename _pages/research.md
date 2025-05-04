@@ -30,7 +30,7 @@ Crystal Growth &nbsp;&nbsp; Surfactant &nbsp;&nbsp; Multiphase Flow &nbsp;&nbsp;
 - **Shaanxi Fundamental Science Research Project for Mathematics and Physics**   
   No. 22JSQ021 | 2023–2024 | ¥50,000 | **PI**.
 
-- **National Natural Science Foundation of China (NSFC) Youth Program (C)**   
+- **National Natural Science Foundation of China (NSFC Youth Program C)**   
   No. 12101073 | 2022–2024 | ¥300,000 | **PI**.
 
 - **Fundamental Research Funds for the Central Universities, CHD**   
