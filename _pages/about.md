@@ -13,16 +13,14 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
 
 # Education
 
--  *Sep 2016 - Jun 2020*  **Ph.D. in Computational Mathematics**  &nbsp;&nbsp;
-  **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China  
-  **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
+-  **Ph.D. in Computational Mathematics**  &nbsp;&nbsp; **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
+  **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
 
-- *Sep 2013 - Jun 2016*   **M.S. in Computational Mathematics**  &nbsp;&nbsp; 
-  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  
-  **Supervisor**: Prof. Yubing Zhou
+- **M.S. in Computational Mathematics**  &nbsp;&nbsp; **Supervisor**: Prof. Yubing Zhou  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
 
-- *Sep 2009 - Jun 2013* **B.S. in Mathematics and Applied Mathematics**  
-  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China 
+- **B.S. in Mathematics and Applied Mathematics**  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
 
 # Work Experience
 
