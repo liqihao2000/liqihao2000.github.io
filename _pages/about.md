@@ -7,6 +7,39 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
+
+# Education
+
+
+- ### Ph.D. in Computational Mathematics  &nbsp;&nbsp; **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
+  **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
+
+- ### M.S. in Computational Mathematics  &nbsp;&nbsp; **Supervisor**: Prof. Yubing Zhou  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
+
+- ### B.S. in Mathematics and Applied Mathematics  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
+
+# Work Experience
+
+- ### Associate Professor  
+  **School of Science, Chang'an University** | Xi'an, China  |  *Dec 2022 - Present*  
+
+- ### Assistant Professor  
+**School of Science, Chang'an University** | Xi'an, China | *Aug 2020 - Dec 2022*  
+
+# Academic Experience
+
+- ### Visiting Scholar (CSC Funded)  &nbsp;&nbsp; **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+  **Department of Mathematics, National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
+
+- ### Visiting Ph.D. Student (CSC Funded) &nbsp;&nbsp;  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+  **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
+
+
+  
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
