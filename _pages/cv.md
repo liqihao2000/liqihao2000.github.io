@@ -13,42 +13,33 @@ redirect_from:
 
 
 - ### Ph.D. in Computational Mathematics  
-  **Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
+  **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
   - **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
 
 - ### M.S. in Computational Mathematics  
-  **Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
   - **Supervisor**: Prof. Yubing Zhou  
 
 - ### B.S. in Mathematics and Applied Mathematics  
-  **Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
+  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2009 - Jun 2013*  
 
 # Work Experience
 
 - ### Associate Professor  
   **School of Science, Chang'an University** | Xi'an, China  |  *Dec 2022 - Present*  
-  <!-- - Teaching: Numerical Methods, Parallel Computing  
-  - Research: PI of NSFC Grant #XXXX (2023–2026) on "Multiphysics Coupling"  
-  - Supervision: 3 Master's students, 1 awarded *Best Thesis*   -->
 
 - ### Assistant Professor  
 **School of Science, Chang'an University** | Xi'an, China | *Aug 2020 - Dec 2022*  
-<!-- - Developed open-source solver [工具名](GitHub链接) (500+ stars)  
-- Collaborated with [合作单位] on industrial CFD projects   -->
 
 # Academic Experience
 
 - ### Visiting Scholar (CSC Funded)  
   **National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
   - **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
-  <!-- - **Research**: Machine learning-enhanced multiphase flow simulations  
-  - **Funding**: CSC Scholarship (No. XXXX)   -->
 
 - ### Visiting Ph.D. Student (CSC Funded)  
   **University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
   - **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
-  <!-- - **Research**: Adaptive time-stepping for fluid-structure interaction  
-  - **Outcomes**: 2 papers in *Journal of Computational Physics*   -->
 
 
 
