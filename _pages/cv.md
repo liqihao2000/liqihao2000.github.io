@@ -12,10 +12,10 @@ redirect_from:
 # Education
 
 
-- ### Ph.D. in Computational Mathematics  **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
+- ### Ph.D. in Computational Mathematics  &nbsp;&nbsp; **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)  
   **School of Mathematics and Statistics, Xi'an Jiaotong University** | Xi'an, China | *Sep 2016 - Jun 2020*  
 
-- ### M.S. in Computational Mathematics  **Supervisor**: Prof. Yubing Zhou  
+- ### M.S. in Computational Mathematics  &nbsp;&nbsp; **Supervisor**: Prof. Yubing Zhou  
   **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  | *Sep 2013 - Jun 2016*  
 
 - ### B.S. in Mathematics and Applied Mathematics  
@@ -31,77 +31,10 @@ redirect_from:
 
 # Academic Experience
 
-- ### Visiting Scholar (CSC Funded)  **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+- ### Visiting Scholar (CSC Funded)  &nbsp;&nbsp; **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
   **Department of Mathematics, National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
   - 
 
-- ### Visiting Ph.D. Student (CSC Funded)  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+- ### Visiting Ph.D. Student (CSC Funded) &nbsp;&nbsp;  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
   **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
   - 
-
-
-
-
-
-
-
-
-
-
-
-
-# Education
-======
-* School of Mathematics and Statistics, Xi'an Jiaotong University | Xi'an, China Sept. 2016 - Jun. 2020
-  * Ph.D in Computational Mathematics, Supervisor: Prof. [Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)
-* School of Mathematics and Statistics, Lanzhou University | Lanzhou, China. Sept. 2013 - Jun. 2016
-  * M.S. in Computational Mathematics, Supervisor: Prof.Yubing Zhou
-* School of Mathematics and Statistics, Lanzhou University | Lanzhou, China. Sept. 2009 - Jun. 2013
-  * B.S. in Mathematics and Applied Mathematics
-
-# Work Experience
-======
-* Dec. 2022 - Present: Associate Professor
-  * School of Science, Chang'an University | Xi'an, China
-
-* Aug. 2020 - Dec. 2022: Assistant Professor
-  * School of Science, Chang'an University | Xi'an, China
-
-# Academic Experience
-======
-- Department of Mathematics, National University of Singapore | Singapore.   Feb. 2025  - Feb. 2026
-  - Visiting Scholar, Funding: CSC Scholarship, Host: Prof. [Weiqing Ren](https://blog.nus.edu.sg/matrw/)
-- Department of Mathematics, University of South Carolina | Columbia, SC, USA.   Sept. 2018  - May. 2020
-  - Visiting Ph.D. Student, Funding: CSC Scholarship, Supervisor: Prof. [Xiaofeng Yang](https://people.math.sc.edu/xfyang/index.html)
-
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
