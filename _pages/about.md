@@ -19,11 +19,11 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
 
 - Sep 2013 - Jun 2016 &nbsp; **M.S. in Computational Mathematics**  &nbsp;&nbsp; **Supervisor**: Prof. Yubing Zhou
 
-  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China  
+  **School of Mathematics and Statistics, Lanzhou University**, Lanzhou, China  
 
 - Sep 2009 - Jun 2013 **B.S. in Mathematics and Applied Mathematics**
 
-  **School of Mathematics and Statistics, Lanzhou University** | Lanzhou, China 
+  **School of Mathematics and Statistics, Lanzhou University**, Lanzhou, China 
 
 # Work Experience
 
