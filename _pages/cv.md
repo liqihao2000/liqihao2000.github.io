@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Mathematics, Xi'an Jiaotong University, Sept. 2016 - Jun. 2020
+  * Supervisor: Liquan Mei
+* M.S. in Computational Mathematics, Lanzhou University, Sept. 2013 - Jun. 2016
+  * Supervisor: Yubing Zhou
+* B.S. in Mathematics and Applied Mathematics, Lanzhou University, Sept. 2009 - Jun. 2013
 
 Work experience
 ======
@@ -22,15 +24,13 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2022 - Present: Associate Professor
+  * School of Science
+  * Chang'an University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2020 - Dec. 2022: Assistant Professor
+  * School of Science
+  * Chang'an University
   
 Skills
 ======
