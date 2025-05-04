@@ -24,18 +24,6 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
 
 # Work Experience
 
-<!-- 
-- Sep 2016 - Jun 2020 &nbsp; **Ph.D. in Computational Mathematics** &nbsp;  **Supervisor**: [Prof. Liquan Mei](http://gr.xjtu.edu.cn/web/lqmei)
-  **School of Mathematics and Statistics, Xi'an Jiaotong University**, Xi'an, China
-
-- Sep 2013 - Jun 2016 &nbsp; **M.S. in Computational Mathematics**  &nbsp;&nbsp; **Supervisor**: Prof. Yubing Zhou
-  **School of Mathematics and Statistics, Lanzhou University**, Lanzhou, China  
-
-- Sep 2009 - Jun 2013 **B.S. in Mathematics and Applied Mathematics**
-  **School of Mathematics and Statistics, Lanzhou University**, Lanzhou, China 
-
-# Work Experience -->
-
 - ### Associate Professor  
   **School of Science, Chang'an University** | Xi'an, China  |  *Dec 2022 - Present*  
 
@@ -44,8 +32,8 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
 
 # Academic Experience
 
-- ### Visiting Scholar (CSC Funded)  &nbsp;&nbsp; **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
+- **Visiting Scholar (CSC Funded)**  &nbsp;&nbsp; **Host**: [Prof. Weiqing Ren](https://blog.nus.edu.sg/matrw/)  
   **Department of Mathematics, National University of Singapore** | Singapore  | *Feb 2025 - Feb 2026*  
 
-- ### Visiting Ph.D. Student (CSC Funded) &nbsp;&nbsp;  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
+- **Visiting Ph.D. Student (CSC Funded)** &nbsp;&nbsp;  **Supervisor**: [Prof. Xiaofeng Yang](https://people.math.sc.edu/xfyang/)  
   **Department of Mathematics, University of South Carolina** | Columbia, SC, USA  |  *Sep 2018 - May 2020*  
