@@ -11,11 +11,11 @@ author_profile: true
 
 # Research Interests 
 
-1. Numerical Methods for Partial Differential Equation (PDEs):  
+1. **Numerical Methods for Partial Differential Equation (PDEs)**:  
    Finite element methods &nbsp;&nbsp; Spectral methods &nbsp;&nbsp; Finite difference methods 
-2. Phase-Field model:  
+2. **Phase-Field model**:  
 Crystal Growth &nbsp;&nbsp; Surfactant &nbsp;&nbsp; Multiphase Flow &nbsp;&nbsp; Lipid Vesicle
-3. Computational Fluid Dynamics and Computational Materials Science
+3. **Computational Fluid Dynamics and Computational Materials Science**
 
 ---
 
