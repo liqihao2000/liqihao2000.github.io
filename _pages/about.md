@@ -39,12 +39,12 @@ Dr. Qi Li is an Associate Professor at the School of Science, Chang'an Universit
 
 
 # Contact Information
-Qi Li  
+*Qi Li  
 Email: liqihao@chd.edu.cn    
 School of Science, Chang'an University  
 No. 126 Middle-section of South Erhuan Road
 Xi'an, Shaanxi Province, 710064  
-People's Republic of China
+People's Republic of China*
 
 <br>
 
