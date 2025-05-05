@@ -11,23 +11,23 @@ author_profile: true
 # Qi's Group Members
 ## Current Master Students
 
-1. Ms. **Mengchun Yuan (袁孟春)** (Master, 2023–)
+- Ms. **Mengchun Yuan (袁孟春)** (Master, 2023–)
     <!--    - B.Sc. from South China University of Technology  -->
-   - Research Topic: 
+   - Research Topic: Surfactant models
    - Email:
    - First Job:
    - Now:
    - 
-2. Ms. **Jingjing Song (宋晶晶)** (Master, 2024–Present)
+- Ms. **Jingjing Song (宋晶晶)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
-   - Research Topic: 
+   - Research Topic: Vesicles models
    - Email:
    - First Job:
    - Now:
    - 
-3. Mr. **Junjie Liu (刘俊杰)** (Master, 2024–Present)
+- Mr. **Junjie Liu (刘俊杰)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
-   - Research Topic: 
+   - Research Topic: Ternary phase-field models
    - Email:
    - First Job:
    - Now:
