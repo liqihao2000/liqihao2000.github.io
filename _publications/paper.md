@@ -1,6 +1,8 @@
 ---
 title: Publications
 ---
+1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Global constraints preserving lagrange multiplier
+approach for the incompressible flow-coupled phase-field vesicle membrane models. ***Submitted*** 2025.
 
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted*** 2025.
 
