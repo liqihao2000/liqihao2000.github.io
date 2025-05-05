@@ -11,10 +11,6 @@ author_profile: true
 
 <style>
 /* 新增逆序编号样式 */
-.pub-list {
-  counter-reset: pub-counter {{ site.publications | size | plus: 1 }};
-  padding-left: 0;
-}
 .pub-item {
   counter-increment: pub-counter -1;
   position: relative;
