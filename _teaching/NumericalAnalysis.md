@@ -4,8 +4,8 @@ title: "Numerical Analysis (数值分析)"
 type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Chang'an University"
-date: 2014-01-01
-# location: "City, Country"
+date: 2026-01-01
+location: "B271"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
