@@ -46,8 +46,10 @@ No. 126 Middle-section of South Erhuan Road
 Xi'an, Shaanxi Province, 710064  
 People's Republic of China
 
+<br>
 
-<div style="width: 300px; margin: 0 auto">
+--- 
+<div style="width: 500px; margin: 0 auto">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Z0EEx67NY01VZmhzlpYiLboiU8iOivsfkdkG501ffrs&cl=ffffff&w=a">
   </script>
 </div>
