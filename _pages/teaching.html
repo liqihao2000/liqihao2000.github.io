@@ -12,19 +12,16 @@ author_profile: true
 {% endfor %}
 
 
----
-
-
-<h2>Course Schedule</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Academic Year</th>
-      <th>Fall Semester</th>
-      <th>Spring Semester</th>
-    </tr>
-  </thead>
-  <tbody>
+<div class="table-container">
+  <table class="enhanced-table">
+    <thead>
+      <tr>
+        <th>Academic Year</th>
+        <th>Fall Semester</th>
+        <th>Spring Semester</th>
+      </tr>
+    </thead>
+    <tbody>
     <tr>
       <td>2025-2026</td>
       <td>Academic Visit to NUS</td>
@@ -71,21 +68,71 @@ author_profile: true
       </td>
     </tr>
   </tbody>
-</table>
+  </table>
+</div>
 
-<!-- 可选：添加 CSS 美化表格 -->
 <style>
-  table {
+  .table-container {
+    overflow-x: auto;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    border-radius: 8px;
+    background: white;
+    margin: 25px 0;
+  }
+
+  .enhanced-table {
     width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
+    border-collapse: separate;  /* 关键修改 */
+    border-spacing: 0;
+    font-family: 'Segoe UI', system-ui;
+    min-width: 800px;
   }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
+
+  /* 垂直边框系统 */
+  .enhanced-table th,
+  .enhanced-table td {
+    border-right: 1px solid #e3e8ee;  /* 列分隔线 */
+    border-left: 1px solid #e3e8ee;
+    padding: 14px;
+    vertical-align: top;
   }
-  th {
-    background-color: #f2f2f2;
+
+  /* 首尾列特殊处理 */
+  .enhanced-table th:first-child,
+  .enhanced-table td:first-child {
+    border-left: none;
+  }
+  
+  .enhanced-table th:last-child,
+  .enhanced-table td:last-child {
+    border-right: none;
+  }
+
+  /* 水平分割线优化 */
+  .enhanced-table td {
+    border-bottom: 1px solid #e3e8ee;
+  }
+
+  .enhanced-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  /* 表头新样式 */
+  .enhanced-table th {
+    background: #2c5aa0;
+    color: white;
+    border-top: none;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+
+  /* 保留原有交互效果 */
+  .enhanced-table tr:hover {
+    background: #f8fafd !important;
+  }
+
+  .enhanced-table tr:nth-child(even) {
+    background: #f9fbfe;
   }
 </style>
