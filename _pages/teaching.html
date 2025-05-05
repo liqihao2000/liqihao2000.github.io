@@ -76,6 +76,19 @@ author_profile: true
 </div>
 
 <style>
+  /* 新增表头字体设置 */
+  .enhanced-table th {
+    font-size: 16px;  /* 字体放大 */
+    font-weight: 600; /* 原bold=700，适当降低保持层次 */
+  }
+
+  /* 学年列特殊样式 */
+  .enhanced-table td:first-child {
+    text-align: center;  /* 水平居中 */
+    font-weight: 600;    /* 加粗显示 */
+  }
+
+  /* 其他原有样式保持不变 */
   .table-container {
     overflow-x: auto;
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
@@ -86,22 +99,20 @@ author_profile: true
 
   .enhanced-table {
     width: 100%;
-    border-collapse: separate;  /* 关键修改 */
+    border-collapse: separate;
     border-spacing: 0;
     font-family: 'Segoe UI', system-ui;
     min-width: 800px;
   }
 
-  /* 垂直边框系统 */
   .enhanced-table th,
   .enhanced-table td {
-    border-right: 1px solid #e3e8ee;  /* 列分隔线 */
+    border-right: 1px solid #e3e8ee;
     border-left: 1px solid #e3e8ee;
     padding: 14px;
-    vertical-align: top;
+    vertical-align: middle;
   }
 
-  /* 首尾列特殊处理 */
   .enhanced-table th:first-child,
   .enhanced-table td:first-child {
     border-left: none;
@@ -112,7 +123,6 @@ author_profile: true
     border-right: none;
   }
 
-  /* 水平分割线优化 */
   .enhanced-table td {
     border-bottom: 1px solid #e3e8ee;
   }
@@ -121,7 +131,6 @@ author_profile: true
     border-bottom: none;
   }
 
-  /* 表头新样式 */
   .enhanced-table th {
     background: #2c5aa0;
     color: white;
@@ -131,7 +140,6 @@ author_profile: true
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
 
-  /* 保留原有交互效果 */
   .enhanced-table tr:hover {
     background: #f8fafd !important;
   }
