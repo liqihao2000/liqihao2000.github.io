@@ -8,7 +8,7 @@ author_profile: true
 # 中文个人主页 
 <!-- 中文个人主页 -->
 ---
-李琦的个人主页: <https://js.chd.edu.cn/lxy/lq8/list.htm>
+李琦的中文主页: <https://js.chd.edu.cn/lxy/lq8/list.htm>
 
 <!-- 
 # 个人简介
