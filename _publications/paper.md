@@ -16,15 +16,15 @@ title: Publications
 
 7. Yingying Xie, **Qi Li**, Liquan Mei, Weilong Wang<sup>\*</sup>. [A variable-step, structure-preserving and linear fully discrete scheme for the two-mode phase-field crystal model with face-centered-cubic ordering](https://doi.org/10.1016/j.cnsns.2025.108766). ***Communications in Nonlinear Science and Numerical Simulation*** 146, 108766, 2025.
 
-8. **李琦**, 陈荟奕, 李玉超<sup>\*</sup>. 流动耦合脂质囊泡模型的基于校正技术的线性能量稳定格式. ***浙江大学学报（理学版）*** 52(2), 238-251, 2025.
+8. **李琦**, 陈荟奕, 李玉超<sup>\*</sup>. [流动耦合脂质囊泡模型的基于校正技术的线性能量稳定格式](https://doi.org/10.3785/j.issn.1008-9497.2025.02.008). ***浙江大学学报（理学版）*** 52(2), 238-251, 2025.
 
 9. Yingying Xie, **Qi Li**, Liquan Mei<sup>\*</sup>. [An unconditionally energy stable method for the anisotropic phase-field crystal model in two dimension](https://doi.org/10.1007/s10915-024-02543-z). ***Journal of Scientific Computing*** 100, 12, 2024.
 
-10. 徐霞,  李彬彬,  **李琦**<sup>\*</sup>,  郑素佩. 任意阶保号熵稳定格式. ***高等学校计算数学学报*** 46(01), 65-82, 2024.
+10. 徐霞,  李彬彬,  **李琦**<sup>\*</sup>,  郑素佩. [任意阶保号熵稳定格式](https://gdsx.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=9be4cc10-5e6a-41a5-b59a-57695b3bc32d#). ***高等学校计算数学学报*** 46(01), 65-82, 2024.
 
-11. 郑素佩, 翟梦情<sup>\*</sup>, **李琦**, 建芒芒. 二维磁流体方程的高分辨率旋转通量格式. ***浙江大学学报（理学版）*** 51(1),, 2024.
+11. 郑素佩, 翟梦情<sup>\*</sup>, **李琦**, 建芒芒. [二维磁流体方程的高分辨率旋转通量格式](https://doi.org/10.3785/j.issn.1008-9497.2024.01.005). ***浙江大学学报（理学版）*** 51(1),, 2024.
 
-12. 翟梦情, **李琦**<sup>\*</sup>, 郑素佩. 求解一维理想磁流体方程的移动网格熵稳定格式. ***计算力学学报*** 40(2),, 2023.
+12. 翟梦情, **李琦**<sup>\*</sup>, 郑素佩. [求解一维理想磁流体方程的移动网格熵稳定格式](https://doi: 10.7511/jslx20211023003). ***计算力学学报*** 40(2),, 2023.
 
 13. Yingying Xie, **Qi Li**, Liquan Mei<sup>\*</sup>. [A new Lagrange multiplier method for the mass-conserved Allen\textendash Cahn type square phase-field crystal model](https://doi.org/10.1016/j.aml.2023.108612). ***Applied Mathematics Letters*** 141, 108612, 2023.
 
