@@ -1,13 +1,15 @@
 ---
 # layout: archive # too wide
-title: "吴越的个人主页"
+title: "李琦的个人主页"
 permalink: /zh_cn/
 author_profile: true
 ---
 
 <!-- 中文个人主页 -->
 ---
+中文个人主页: https://js.chd.edu.cn/lxy/lq8/list.htm
 
+<!-- 
 # 个人简介
 
 **吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学，导师是[舒其望 教授](https://www.dam.brown.edu/people/shu/ "舒其望教授的个人主页"){:target="_blank"}。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限元、间断有限元、谱元法、有限差分等）。
@@ -121,4 +123,4 @@ Box F <br />
 182 George Street <br />
 Providence, RI 02912-9106 <br />
 United States 
-</address>
+</address> -->
