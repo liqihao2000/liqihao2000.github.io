@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "Group"
+# title: "Group"
 permalink: /people/
 author_profile: true
 ---
