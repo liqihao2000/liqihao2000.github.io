@@ -51,12 +51,11 @@ Stable Schemes. ***Journal of Scientific Computing*** 88, 60, 2021.
 
 23. **Qi Li**, Liquan Mei<sup>\*</sup>, Xiaofeng Yang, Yibao Li. Efficient numerical schemes with unconditional energy stabilities for the modified phase field crystal equation. ***Advances in Computational Mathematics*** 45(3), 1551--1580, 2019.
 
-24. Ying Wang, **Qi Li**, Liquan Mei<sup>\*</sup>. A linear, symmetric and energy-conservative scheme for the
-space-fractional Klein--Gordon--Schrödinger equations. ***Applied Mathematics Letters*** 95, 104--113, 2019.
+24. Ying Wang, **Qi Li**, Liquan Mei<sup>\*</sup>. [A linear, symmetric and energy-conservative scheme for the space-fractional Klein--Gordon--Schrödinger equations](https://doi.org/10.1016/j.aml.2019.03.032). ***Applied Mathematics Letters*** 95, 104--113, 2019.
 
-25. Ying Wang, Liquan Mei<sup>\*</sup>, **Qi Li**, Linlin Bu. Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation. ***Applied Numerical Mathematics*** 136, 257--278, 2019.
+25. Ying Wang, Liquan Mei<sup>\*</sup>, **Qi Li**, Linlin Bu. [Split-step spectral Galerkin method for the two-dimensional nonlinear space-fractional Schrödinger equation](https://doi.org/10.1016/j.apnum.2018.10.012). ***Applied Numerical Mathematics*** 136, 257--278, 2019.
 
-26. **Qi Li**, Liquan Mei<sup>\*</sup>, Bo You. A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model. ***Applied Numerical Mathematics*** 134, 46--65, 2018.
+26. **Qi Li**, Liquan Mei<sup>\*</sup>, Bo You. [A second-order, uniquely solvable, energy stable BDF numerical scheme for the phase field crystal model](https://doi.org/10.1016/j.apnum.2018.07.003). ***Applied Numerical Mathematics*** 134, 46--65, 2018.
 
-27. **Qi Li**, Liquan Mei<sup>\*</sup>. Local momentum-preserving algorithms for the GRLW equation. ***Applied Mathematics and Computation*** 330, 77-92, 2018.
+27. **Qi Li**, Liquan Mei<sup>\*</sup>. [Local momentum-preserving algorithms for the GRLW equation](https://doi.org/10.1016/j.amc.2018.02.033). ***Applied Mathematics and Computation*** 330, 77-92, 2018.
 
