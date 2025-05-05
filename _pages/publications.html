@@ -11,26 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
+<style>
+.pub-item { margin-bottom: 1.5rem; }
+.pub-item::before {
+  content: "[" counter(pub-counter) "]";
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+</style>
 
-
+<ol style="counter-reset: pub-counter {{ site.publications.first.papers.size | plus: 1 }};">
+{% assign all_pubs = site.publications.first.papers | sort: "date" | reverse %}
+{% for pub in all_pubs %}
+  <li class="pub-item" style="counter-increment: pub-counter -1;">
+    {{ pub.content }}
+  </li>
+{% endfor %}
+</ol>

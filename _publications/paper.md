@@ -1,6 +1,17 @@
-[1] **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu $^*$. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. *Submitted* 2025.
 
 
+---
+layout: publication
+title: Publications
+papers:
+  - content: "**Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu $^*$. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. *Submitted* 2025."
+    date: 2025-01-01
+
+  - content: "Mengchun Yuan, **Qi Li** $^*$, Liquan Mei. Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method. *Submitted* 2025."
+    date: 2025-01-02
+
+  - content: "Mengchun Yuan, **Qi Li** $^*$. Structure-Preserving Numerical Methods for Phase Field Surfactant Models Based on the Supplemental Variable Method (SVM). *Submitted* 2024."
+    date: 2024-01-01
 
 [2] Mengchun Yuan, **Qi Li** $^*$, Liquan Mei. Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method. *Submitted* 2025.
 
