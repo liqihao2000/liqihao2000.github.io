@@ -1,13 +1,13 @@
 ---
 permalink: /
-# title: "About Me"
+title: "Short Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Short Biography
+<!-- # Short Biography -->
 
 Dr. Qi Li is an Associate Professor at the School of Science, [Chang'an University](https://www.chd.edu.cn/). He earned his B.S. in Mathematics and Applied Mathematics (2013) and M.S. in Computational Mathematics (2016) from [Lanzhou University](https://www.lzu.edu.cn/), followed by a Ph.D. in Computational Mathematics from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2020. From September 2018 to May 2020, he was a Visiting Ph.D. Student (CSC Funded) at the [University of South Carolina](https://sc.edu/)'s Department of Mathematics. His research focuses on numerical methods for differential equations and scientific computing, with an emphasis on designing efficient algorithms for phase-field models and multiphase flow problems. He has published over 20+ peer-reviewed [papers](https://liqihao2000.github.io/publications/).
 

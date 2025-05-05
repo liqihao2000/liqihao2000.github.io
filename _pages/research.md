@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-# title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 <!--{% include toc %} -->
 
 
-# Research Interests 
+<!-- # Research Interests  -->
 
 - **Numerical Methods for Partial Differential Equation (PDEs)**:  
    Finite element methods &nbsp;&nbsp; Spectral methods &nbsp;&nbsp; Finite difference methods 

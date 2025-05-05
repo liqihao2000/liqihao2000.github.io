@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-# title: "Group"
+title: "Group Members"
 permalink: /people/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 <!-- 放关于研究的详细内容 -->
 <!--{% include toc %} -->
 
-# Qi's Group Members
+<!-- # Qi's Group Members -->
 ## Current Master Students
 
 - Ms. **Mengchun Yuan (袁孟春)** (Master, 2023–)
