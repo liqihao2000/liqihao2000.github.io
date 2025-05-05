@@ -148,3 +148,31 @@ author_profile: true
     background: #f9fbfe;
   }
 </style>
+
+<style>
+  /* 新增第一列固定宽度 */
+  .enhanced-table th:first-child,
+  .enhanced-table td:first-child {
+    width: 130px;  /* 固定宽度 */
+    min-width: 130px;
+    max-width: 130px;
+    white-space: nowrap;  /* 禁止换行 */
+  }
+
+  /* 调整表格最小宽度 */
+  .enhanced-table {
+    min-width: 900px;  /* 原800px调整为900px */
+  }
+
+  /* 保持原有其他样式不变 */
+  .enhanced-table th {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  .enhanced-table td:first-child {
+    text-align: center;
+    font-weight: 600;
+  }
+  /* 其余样式保持不变... */
+</style>
