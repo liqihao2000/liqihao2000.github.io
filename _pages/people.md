@@ -7,7 +7,7 @@ author_profile: true
 
 <!--{% include toc %} -->
 <!-- # Qi's Group Members -->
-## Current Master Students
+# Current Master Students
 
 - Ms. **Mengchun Yuan (袁孟春)** (Master, 2023–)
     <!--    - B.Sc. from South China University of Technology  -->
@@ -33,11 +33,11 @@ author_profile: true
 
 ---
 
-## Graduated Master Students
+# Graduated Master Students
 
 ---
 
-## Undergraduate Students
+# Undergraduate Students
 - Graduates of 2025
   - Mr. **Juncheng Yang (杨骏成)**:
   - Mr. **Anxu Zhao (赵安旭)**:
