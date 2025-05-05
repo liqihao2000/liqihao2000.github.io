@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-# title: "Qi Li's Research Page"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---

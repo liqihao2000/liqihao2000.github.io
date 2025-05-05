@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-# title: "Qi's Group Members"
+title: "Group"
 permalink: /people/
 author_profile: true
 ---
