@@ -1,11 +1,11 @@
 ---
-title: "Numerical Methods (计算方法)"
+title: "Finite Element Method"
 # collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Chang'an University"
 date: 2026-01-01
-location: "WX1203"
+location: "B271"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
@@ -21,4 +21,4 @@ This is a description of a teaching experience. You can use markdown like any ot
 - Chapter 4
 - Chapter 5
 - Chapter 6
-
+- Chapter 7
