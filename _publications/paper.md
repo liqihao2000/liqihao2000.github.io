@@ -1,6 +1,7 @@
 ---
-title: Publications
+# title: Publications
 ---
+
 1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Global constraints preserving lagrange multiplier
 approach for the incompressible flow-coupled phase-field vesicle membrane models. ***Submitted***, 2025.
 
