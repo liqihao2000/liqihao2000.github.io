@@ -9,23 +9,33 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-
 <style>
-.pub-item { margin-bottom: 1.5rem; }
+/* 新增逆序编号样式 */
+.pub-list {
+  counter-reset: pub-counter {{ site.publications | size | plus: 1 }};
+  padding-left: 0;
+}
+.pub-item {
+  counter-increment: pub-counter -1;
+  position: relative;
+  margin-bottom: 1.5rem;
+  padding-left: 2.5em;
+}
 .pub-item::before {
   content: "[" counter(pub-counter) "]";
+  position: absolute;
+  left: 0;
   font-weight: bold;
-  margin-right: 0.5rem;
 }
 </style>
 
-<ol style="counter-reset: pub-counter {{ site.publications.first.papers.size | plus: 1 }};">
-{% assign all_pubs = site.publications.first.papers | sort: "date" | reverse %}
-{% for pub in all_pubs %}
-  <li class="pub-item" style="counter-increment: pub-counter -1;">
-    {{ pub.content }}
+<ol class="pub-list">
+{% assign sorted_pubs = site.publications | sort: "date" %}
+{% for pub in sorted_pubs reversed %}
+  <li class="pub-item">
+    {{ pub.content | markdownify | remove: "<p>" | remove: "</p>" }}
   </li>
 {% endfor %}
 </ol>
+
+{% include base_path %}
