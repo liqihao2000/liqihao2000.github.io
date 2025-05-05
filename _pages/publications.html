@@ -11,4 +11,25 @@ author_profile: true
 
 {% include base_path %}
 
-{{ site.publications.first.content | markdownify }}
+<style>
+  /* 强制逆序编号 */
+  ol {
+    counter-reset: item {{ site.publications.first.content | split: '<li>' | size }};
+    list-style: none;
+    padding-left: 0;
+  }
+  ol li {
+    counter-increment: item -1;
+    position: relative;
+    padding-left: 3em;
+    margin-bottom: 1.5rem;
+  }
+  ol li:before {
+    content: "[" counter(item) "]";
+    position: absolute;
+    left: 0;
+    font-weight: bold;
+  }
+  </style>
+  
+  {{ site.publications.first.content | markdownify }}
