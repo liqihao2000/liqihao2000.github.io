@@ -38,5 +38,8 @@ main:
   - title: "Talks"
     url: /talks/  
 
+  - title: "Links"
+    url: /links/
+
   - title: "中文"
     url: /zh_cn/
