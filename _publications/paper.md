@@ -4,8 +4,6 @@
 
 ---
 
-**Submitted papers**
-
 1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Global constraints preserving lagrange multiplier
 approach for the incompressible flow-coupled phase-field vesicle membrane models. ***Submitted***, 2025.
 
@@ -20,8 +18,6 @@ approach for the incompressible flow-coupled phase-field vesicle membrane models
 5. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2024.
 
 6. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024. 
-
-**Published papers**
 
 7. Yingying Xie, **Qi Li**, Liquan Mei, Weilong Wang<sup>\*</sup>. [A variable-step, structure-preserving and linear fully discrete scheme for the two-mode phase-field crystal model with face-centered-cubic ordering](https://doi.org/10.1016/j.cnsns.2025.108766). ***Communications in Nonlinear Science and Numerical Simulation***, 146, 108766, 2025.
 
