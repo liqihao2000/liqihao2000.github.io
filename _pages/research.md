@@ -35,6 +35,8 @@ Crystal Growth &nbsp;&nbsp; Surfactant &nbsp;&nbsp; Multiphase Flow &nbsp;&nbsp;
 - **Fundamental Research Funds for the Central Universities, CHD**   
   No. 300102121302 | 2021–2022 | ¥80,000 | **PI**.
 
+  - - -
+
 - **National Natural Science Foundation of China (NSFC General Program)**  
   No. 11871389 | 2019–2022 | ¥530,000 | Participant.
   
