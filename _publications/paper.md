@@ -19,6 +19,8 @@ approach for the incompressible flow-coupled phase-field vesicle membrane models
 
 6. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024.
 
+---
+
 7. Yingying Xie, **Qi Li**, Liquan Mei, Weilong Wang<sup>\*</sup>. [A variable-step, structure-preserving and linear fully discrete scheme for the two-mode phase-field crystal model with face-centered-cubic ordering](https://doi.org/10.1016/j.cnsns.2025.108766). ***Communications in Nonlinear Science and Numerical Simulation***, 146, 108766, 2025.
 
 8. **李琦**, 陈荟奕, 李玉超<sup>\*</sup>. [流动耦合脂质囊泡模型的基于校正技术的线性能量稳定格式](https://doi.org/10.3785/j.issn.1008-9497.2025.02.008). ***浙江大学学报（理学版）***, 52(2), 238-251, 2025.

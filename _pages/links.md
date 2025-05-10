@@ -29,6 +29,8 @@ author_profile: true
 * [Fortran](https://fortran-lang.org)
 * [Julia](https://julialang.org)
 * Tex tools:
+  - [Mathpix Homepage](https://mathpix.com/)
+  - [Mathpix Snip Webapp](https://snip.mathpix.com/home)
   - [Tex FAQ](https://texfaq.org/#errors)
   - [doi2bib.org](https://www.doi2bib.org)
   - [Tables Generator](https://www.tablesgenerator.com)
