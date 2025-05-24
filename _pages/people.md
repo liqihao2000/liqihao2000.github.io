@@ -41,8 +41,8 @@ author_profile: true
 
 # Undergraduate Students
 - Graduates of 2025
-  - Mr. **Juncheng Yang (杨骏成)**:
-  - Mr. **Anxu Zhao (赵安旭)**:
+  - Mr. **Juncheng Yang (杨骏成)**: 变密度不可压缩流的高效能量稳定格式
+  - Mr. **Anxu Zhao (赵安旭)**: 三元Cahn-Hilliard相场模型的SAV-Galerkin有限元方法
 
 - Graduates of 2024
   - Ms. **Huiyi Chen (陈荟奕)**: 脂质囊泡相场模型的保结构方法
