@@ -6,9 +6,6 @@
 
 1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Submitted***, 2025.
 
-1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Global constraints preserving lagrange multiplier
-approach for the incompressible flow-coupled phase-field vesicle membrane models. ***Submitted***, 2025.
-
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted***, 2025.
 
 2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. Structure-Preserving Numerical Methods for Phase Field Surfactant Models Based on the Supplemental Variable Method (SVM). ***Submitted***, 2025.
@@ -18,6 +15,8 @@ approach for the incompressible flow-coupled phase-field vesicle membrane models
 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
 
 5. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024. 
+
+1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Global constraints preserving lagrange multiplier approach for the incompressible flow-coupled phase-field vesicle membrane models. ***Computer Physics Communications***, Accepted, 2025.
 
 6. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Liquan Mei. [Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method](https://doi.org/10.1016/j.cnsns.2025.109094). ***Communications in Nonlinear Science and Numerical Simulation***, 151:109094, 2025.
 
