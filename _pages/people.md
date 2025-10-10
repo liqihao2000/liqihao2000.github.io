@@ -14,21 +14,26 @@ author_profile: true
 - Ms. **Mengchun Yuan (袁孟春)** (Master, 2023–)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: Surfactant models
-   - Email:
    - First Job:
    - Now:
-   - 
+   - <span style="font-size: 13px;"> [1] Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Submitted***, 2025.</span>
+   - <span style="font-size: 13px;"> [2] Mengchun Yuan, **Qi Li**<sup>\*</sup>. Structure-Preserving Numerical Methods for Phase Field Surfactant Models Based on the Supplemental Variable Method (SVM). ***Submitted***, 2025.</span>
+   - <span style="font-size: 13px;"> [3] Mengchun Yuan, **Qi Li**<sup>\*</sup>, Liquan Mei. [Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method](https://doi.org/10.1016/j.cnsns.2025.109094). ***Communications in Nonlinear Science and Numerical Simulation***, 151:109094, 2025.</span>
 - Ms. **Jingjing Song (宋晶晶)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: Vesicles models
-   - Email:
    - First Job:
    - Now:
    - 
 - Mr. **Junjie Liu (刘俊杰)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: Ternary phase-field models
-   - Email:
+   - First Job:
+   - Now:
+   - 
+- Mr. **Shuoqi Wang (王硕齐)** (Master, 2024–Present)
+    <!--    - B.Sc. from South China University of Technology  -->
+   - Research Topic: 
    - First Job:
    - Now:
    - 
