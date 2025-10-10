@@ -31,7 +31,7 @@ author_profile: true
    - First Job:
    - Now:
    - 
-- Mr. **Shuoqi Wang (王硕齐)** (Master, 2024–Present)
+- Mr. **Shuoqi Wang (王硕齐)** (Master, 2025–Present)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: 
    - First Job:
