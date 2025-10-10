@@ -28,11 +28,9 @@ Dr. Qi Li is an Associate Professor at the School of Science, [Chang'an Universi
 
 # Work Experience
 
-- ### Associate Professor  
-  School of Science, Chang'an University | Xi'an, China  |  *Dec 2022 - Present*  
+- ### Associate Professor, <span style="font-size:16px; font-weight:normal;">School of Science, Chang'an University | Xi'an, China  |  *Dec 2022 - Present*  </span>
 
-- ### Assistant Professor  
-  School of Science, Chang'an University | Xi'an, China | *Aug 2020 - Dec 2022*  
+- ### Assistant Professor, <span style="font-size:16px; font-weight:normal;">School of Science, Chang'an University | Xi'an, China | *Aug 2020 - Dec 2022*  </span>
 
 ---
 
