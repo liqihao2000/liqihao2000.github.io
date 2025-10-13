@@ -1,5 +1,5 @@
 ---
-title: "Codes for the SAV Approach to the Allen-Cahn Equation"
+title: "Codes for the SAV Approach to the PFC Equation"
 # collection: teaching
 # type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
