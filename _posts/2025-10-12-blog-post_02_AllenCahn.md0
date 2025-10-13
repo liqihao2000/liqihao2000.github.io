@@ -1,11 +1,15 @@
 ---
-title: 'Codes for the SAV Approach to the Cahn–Hilliard Equation'
+title: 'Codes for the SAV Approach to the Allen-Cahn Equation'
 date: 2025-10-12
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - phase-field
+  - FFT
+  - Shenfun
+  - Firedrake
+  - FEniCSx
+  - Ngsolve
+  - Freefem
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
