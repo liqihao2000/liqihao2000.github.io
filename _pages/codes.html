@@ -1,0 +1,202 @@
+---
+layout: archive
+title: "Codes"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+
+
+<h2>Course Schedule</h2>
+<div class="table-container">
+  <table class="enhanced-table">
+    <thead>
+      <tr>
+        <th>Academic Year</th>
+        <th>Fall Semester</th>
+        <th>Spring Semester</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>2025-2026</td>
+      <td>Academic Visit to NUS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2024-2025</td>
+      <td><span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Numerical Analysis</td>
+      <td>Academic Visit to NUS</td>
+    </tr>
+    <tr>
+      <td>2023-2024</td>
+      <td><span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Numerical Analysis</td>
+      <td>
+        <span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Finite Element Methods<br>
+        <span style="color: #3c763d; font-weight: bold;">Undergraduate:</span> Numerical Methods
+      </td>
+    </tr>
+    <tr>
+      <td>2022-2023</td>
+      <td>
+        <span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Numerical Analysis<br>
+        <span style="color: #3c763d; font-weight: bold;">Undergraduate:</span> Linear Algebra
+      </td>
+      <td>
+        <span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Finite Element Methods<br>
+        <span style="color: #3c763d; font-weight: bold;">Undergraduate:</span> Numerical Methods, Freshman Seminar
+      </td>
+    </tr>
+    <tr>
+      <td>2021-2022</td>
+      <td><span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Numerical Analysis</td>
+      <td>
+        <span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Finite Element Methods<br>
+        <span style="color: #3c763d; font-weight: bold;">Undergraduate:</span> Numerical Analysis, Scientific Computing Practice, Introduction to Major
+      </td>
+    </tr>
+    <tr>
+      <td>2020-2021</td>
+      <td><span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Teaching Assistant for Advanced Numerical Analysis</td>
+      <td>
+        <span style="color: #2c5aa0; font-weight: bold;">Graduate:</span> Finite Element Methods<br>
+        <span style="color: #3c763d; font-weight: bold;">Undergraduate:</span> Numerical Methods
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
+<style>
+  /* 新增表头字体设置 */
+  .enhanced-table th {
+    font-size: 16px;  /* 字体放大 */
+    font-weight: 600; /* 原bold=700，适当降低保持层次 */
+  }
+
+  /* 学年列特殊样式 */
+  .enhanced-table td:first-child {
+    text-align: center;  /* 水平居中 */
+    font-weight: 600;    /* 加粗显示 */
+  }
+
+  /* 其他原有样式保持不变 */
+  .table-container {
+    overflow-x: auto;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    border-radius: 8px;
+    background: white;
+    margin: 25px 0;
+  }
+
+  .enhanced-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-family: 'Segoe UI', system-ui;
+    min-width: 800px;
+  }
+
+  .enhanced-table th,
+  .enhanced-table td {
+    border-right: 1px solid #e3e8ee;
+    border-left: 1px solid #e3e8ee;
+    padding: 14px;
+    vertical-align: middle;
+  }
+
+  .enhanced-table th:first-child,
+  .enhanced-table td:first-child {
+    border-left: none;
+  }
+  
+  .enhanced-table th:last-child,
+  .enhanced-table td:last-child {
+    border-right: none;
+  }
+
+  .enhanced-table td {
+    border-bottom: 1px solid #e3e8ee;
+  }
+
+  .enhanced-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .enhanced-table th {
+    background: #2c5aa0;
+    color: white;
+    border-top: none;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+
+  .enhanced-table tr:hover {
+    background: #f8fafd !important;
+  }
+
+  .enhanced-table tr:nth-child(even) {
+    background: #f9fbfe;
+  }
+</style>
+
+<style>
+  /* 新增第一列固定宽度 */
+  .enhanced-table th:first-child,
+  .enhanced-table td:first-child {
+    width: 130px;  /* 固定宽度 */
+    min-width: 130px;
+    max-width: 130px;
+    white-space: nowrap;  /* 禁止换行 */
+  }
+
+  /* 调整表格最小宽度 */
+  .enhanced-table {
+    min-width: 900px;  /* 原800px调整为900px */
+  }
+
+  /* 保持原有其他样式不变 */
+  .enhanced-table th {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  .enhanced-table td:first-child {
+    text-align: center;
+    font-weight: 600;
+  }
+  /* 其余样式保持不变... */
+</style>
+
+<style>
+  /* 新增字体颜色控制 */
+  .enhanced-table td {
+    color: black !important;  /* 强制内容字体为黑色 */
+  }
+  
+  .enhanced-table th {
+    color: white !important; /* 保持表头文字为白色 */
+  }
+
+  /* 原有其他样式保持不变 */
+  .enhanced-table th {
+    font-size: 16px;
+    font-weight: 600;
+    background: #2c5aa0;
+  }
+  
+  .enhanced-table td:first-child {
+    text-align: center;
+    font-weight: 600;
+  }
+  /* ...其余原有样式... */
+</style>
