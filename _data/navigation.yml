@@ -19,12 +19,15 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
+  
+  - title: "Codes"
+    url: /codes/
 
   - title: "Group"
     url: /people/
         
-  - title: "Codes"
-    url: /year-archive/
+  #- title: "Blog"
+  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
