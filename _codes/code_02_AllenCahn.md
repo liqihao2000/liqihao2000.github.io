@@ -1,7 +1,8 @@
 ---
 title: "SAV Approach to the Allen-Cahn Equation"
-
+# collection: codes
 date: 2026-01-01
+---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
