@@ -1,5 +1,5 @@
 ---
-title: "Finite Element Method"
+title: "Codes for the SAV Approach to the Cahn–Hilliard Equation"
 # collection: teaching
 type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
