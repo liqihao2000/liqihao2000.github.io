@@ -23,7 +23,7 @@ main:
   - title: "Group"
     url: /people/
         
-  - title: "Blog Posts"
+  - title: "Codes"
     url: /year-archive/
     
   # - title: "CV"
