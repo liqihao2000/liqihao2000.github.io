@@ -8,11 +8,11 @@
 
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted***, 2025.
 
-2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. Structure-Preserving Numerical Methods for Phase Field Surfactant Models Based on the Supplemental Variable Method (SVM). ***Submitted***, 2025.
-
 3. Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints. ***Submitted***, 2025.
 
 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
+
+2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220, 123-143, 2026.
 
 5. **李琦**, 刘俊杰, 赵安旭, 李玉超<sup>\*</sup>. 三元Cahn-Hilliard相场模型的无条件能量稳定Galerkin有限元格式. ***浙江大学学报（理学版）***, Accepted, 2024. 
 
