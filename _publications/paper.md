@@ -14,7 +14,7 @@
 
 2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220, 123-143, 2026.
 
-5. **李琦**, 刘俊杰, 赵安旭, 李玉超<sup>\*</sup>. 三元Cahn-Hilliard相场模型的无条件能量稳定Galerkin有限元格式. ***浙江大学学报（理学版）***, Accepted, 2024. 
+5. **李琦**, 刘俊杰, 赵安旭, 李玉超<sup>\*</sup>. 三元Cahn-Hilliard相场模型的无条件能量稳定Galerkin有限元格式. ***浙江大学学报（理学版）***, Accepted, 2025. 
 
 5. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024. 
 
