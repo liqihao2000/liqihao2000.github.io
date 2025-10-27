@@ -24,7 +24,7 @@
 
 7. Yingying Xie, **Qi Li**, Liquan Mei, Weilong Wang<sup>\*</sup>. [A variable-step, structure-preserving and linear fully discrete scheme for the two-mode phase-field crystal model with face-centered-cubic ordering](https://doi.org/10.1016/j.cnsns.2025.108766). ***Communications in Nonlinear Science and Numerical Simulation***, 146, 108766, 2025.
 
-8. **李琦**, 陈荟奕, 李玉超<sup>\*</sup>. [流动耦合脂质囊泡模型的基于校正技术的线性能量稳定格式](https://doi.org/10.3785/j.issn.1008-9497.2025.02.008). ***浙江大学学报（理学版）***, 52(2), 238-251, 2025.
+8. **李琦**, 陈荟奕, 李玉超<sup>\*</sup>. [基于校正技术的流动耦合脂质囊泡模型的线性能量稳定格式](https://doi.org/10.3785/j.issn.1008-9497.2025.02.008). ***浙江大学学报（理学版）***, 52(2), 238-251, 2025.
 
 9. Yingying Xie, **Qi Li**, Liquan Mei<sup>\*</sup>. [An unconditionally energy stable method for the anisotropic phase-field crystal model in two dimension](https://doi.org/10.1007/s10915-024-02543-z). ***Journal of Scientific Computing***, 100, 12, 2024.
 
