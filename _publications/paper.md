@@ -8,7 +8,7 @@
 
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted***, 2025.
 
-3. Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints. ***Submitted***, 2025.
+3. Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. [Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints](https://doi.org/10.1016/j.matcom.2025.11.011). ***Mathematics and Computers in Simulation***, 242:36–53, 2026.
 
 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
 
