@@ -24,7 +24,7 @@ author_profile: true
    - Research Topic: Vesicles models
    - First Job:
    - Now:
-   -  - <span style="font-size: 14px;"> [1] Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. [Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints](https://doi.org/10.1016/j.matcom.2025.11.011). ***Mathematics and Computers in Simulation***, 242:36–53, 2026.</span>
+   - <span style="font-size: 14px;"> [1] Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. [Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints](https://doi.org/10.1016/j.matcom.2025.11.011). ***Mathematics and Computers in Simulation***, 242:36–53, 2026.</span>
 - Mr. **Junjie Liu (刘俊杰)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
    - Research Topic: Ternary phase-field models
