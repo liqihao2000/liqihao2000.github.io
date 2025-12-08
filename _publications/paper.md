@@ -18,7 +18,7 @@
 
 5. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024. 
 
-1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. [Global constraints preserving lagrange multiplier approach for the incompressible flow-coupled phase-field vesicle membrane models](https://doi.org/10.1016/j.cpc.2025.109773). ***Computer Physics Communications***, 316, 109773, 2025.
+1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. [Global constraints preserving Lagrange multiplier approach for the incompressible flow-coupled phase-field vesicle membrane models](https://doi.org/10.1016/j.cpc.2025.109773). ***Computer Physics Communications***, 316, 109773, 2025.
 
 6. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Liquan Mei. [Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method](https://doi.org/10.1016/j.cnsns.2025.109094). ***Communications in Nonlinear Science and Numerical Simulation***, 151:109094, 2025.
 
