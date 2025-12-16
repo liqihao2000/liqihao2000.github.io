@@ -30,9 +30,9 @@
 
 10. 徐霞,  李彬彬,  **李琦**<sup>\*</sup>,  郑素佩. [任意阶保号熵稳定格式](https://gdsx.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=9be4cc10-5e6a-41a5-b59a-57695b3bc32d). ***高等学校计算数学学报***, 46(01), 65-82, 2024.
 
-11. 郑素佩, 翟梦情<sup>\*</sup>, **李琦**, 建芒芒. [二维磁流体方程的高分辨率旋转通量格式](https://doi.org/10.3785/j.issn.1008-9497.2024.01.005). ***浙江大学学报（理学版）***, 51(1),, 2024.
+11. 郑素佩, 翟梦情<sup>\*</sup>, **李琦**, 建芒芒. [二维磁流体方程的高分辨率旋转通量格式](https://doi.org/10.3785/j.issn.1008-9497.2024.01.005). ***浙江大学学报（理学版）***, 51(1), 29-40, 2024.
 
-12. 翟梦情, **李琦**<sup>\*</sup>, 郑素佩. [求解一维理想磁流体方程的移动网格熵稳定格式](https://doi: 10.7511/jslx20211023003). ***计算力学学报***, 40(2),, 2023.
+12. 翟梦情, **李琦**<sup>\*</sup>, 郑素佩. [求解一维理想磁流体方程的移动网格熵稳定格式](https://doi: 10.7511/jslx20211023003). ***计算力学学报***, 40(2), 229-236, 2023.
 
 13. Yingying Xie, **Qi Li**, Liquan Mei<sup>\*</sup>. [A new Lagrange multiplier method for the mass-conserved Allen\textendash Cahn type square phase-field crystal model](https://doi.org/10.1016/j.aml.2023.108612). ***Applied Mathematics Letters***, 141, 108612, 2023.
 
