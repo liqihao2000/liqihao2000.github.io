@@ -4,19 +4,19 @@
 
 ---
 
-1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Submitted***, 2026.
-
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted***, 2025.
 
 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
 
-3. Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. [Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints](https://doi.org/10.1016/j.matcom.2025.11.011). ***Mathematics and Computers in Simulation***, 242:36–53, 2026.
-
-2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220:123-143, 2026.
+1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Communications in Computational Physics***, Accepted, 2026.
 
 5. **李琦**, 刘俊杰, 赵安旭, 李玉超<sup>\*</sup>. 三元Cahn-Hilliard相场模型的无条件能量稳定Galerkin有限元格式. ***浙江大学学报（理学版）***, Accepted, 2026.
 
 5. 陈荟奕, 罗锦仪, **李琦**<sup>\*</sup>, 任晶磊, 杨奕. 脂质囊泡流动耦合模型的无条件能量稳定解耦算法. ***工程数学学报***, Accepted, 2024. 
+
+3. Jingjing Song, Yanqing He, **Qi Li**<sup>\*</sup>. [Efficient energy-stable numerical methods for phase-field vesicle membrane models with strict volume and surface area constraints](https://doi.org/10.1016/j.matcom.2025.11.011). ***Mathematics and Computers in Simulation***, 242:36–53, 2026.
+
+2. Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220:123-143, 2026.
 
 1. Yanqing He, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. [Global constraints preserving Lagrange multiplier approach for the incompressible flow-coupled phase-field vesicle membrane models](https://doi.org/10.1016/j.cpc.2025.109773). ***Computer Physics Communications***, 316:109773, 2025.
 
@@ -48,9 +48,9 @@
 
 19. **Qi Li**, Xiaofeng Yang<sup>\*</sup>, Liquan Mei. [Efficient numerical scheme for the anisotropic modified phase-field crystal model with a strong nonlinear vacancy potential](https://dx.doi.org/10.4310/CMS.2021.v19.n2.a3). ***Communications in Mathematical Sciences***, 19(2):355--381, 2021.
 
-20. **Qi Li**, Liquan Mei<sup>\*</sup>, Yibao Li. [Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction](https://doi.org/10.1016/j.cam.2020.113335). ***Journal of Computational and Applied Mathematics***, 389: 113335, 2021.
+20. **Qi Li**, Liquan Mei<sup>\*</sup>, Yibao Li. [Efficient second-order unconditionally stable numerical schemes for the modified phase field crystal model with long-range interaction](https://doi.org/10.1016/j.cam.2020.113335). ***Journal of Computational and Applied Mathematics***, 389:113335, 2021.
 
-21. **Qi Li**, Xi Li, Xiaofeng Yang<sup>\*</sup>, Liquan Mei. [Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model](https://doi.org/10.1016/j.cam.2020.113122). ***Journal of Computational and Applied Mathematics***, 383 113122, 2021.
+21. **Qi Li**, Xi Li, Xiaofeng Yang<sup>\*</sup>, Liquan Mei. [Highly efficient and linear numerical schemes with unconditional energy stability for the anisotropic phase-field crystal model](https://doi.org/10.1016/j.cam.2020.113122). ***Journal of Computational and Applied Mathematics***, 383:113122, 2021.
 
 22. **Qi Li**,, Liquan Mei<sup>\*</sup>. [Efficient, decoupled, and second-order unconditionally energy stable numerical schemes for the coupled Cahn--Hilliard system in copolymer/homopolymer mixtures](https://doi.org/10.1016/j.cpc.2020.107290). ***Computer Physics Communications***, 260:107290, 2021.
 

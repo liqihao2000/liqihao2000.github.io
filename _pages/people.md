@@ -16,8 +16,8 @@ author_profile: true
    - Research Topic: Surfactant models
    - First Job:
    - Now:
-   - <span style="font-size: 14px;"> [1] Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Submitted***, 2025.</span>
-   - <span style="font-size: 14px;"> [2] Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220, 123-143, 2026.</span>
+   - <span style="font-size: 14px;"> [1] Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Communications in Computational Physics***, Accepted, 2026.</span>
+   - <span style="font-size: 14px;"> [2] Mengchun Yuan, **Qi Li**<sup>\*</sup>. [Structure-preserving numerical methods for phase-field surfactant models based on the supplemental variable method (SVM)](https://doi.org/10.1016/j.apnum.2025.10.007). ***Applied Numerical Mathematics***, 220:123-143, 2026.</span>
    - <span style="font-size: 14px;"> [3] Mengchun Yuan, **Qi Li**<sup>\*</sup>, Liquan Mei. [Efficient numerical schemes for the conserved Allen-Cahn phase-field surfactant system based on high order supplementary variable method](https://doi.org/10.1016/j.cnsns.2025.109094). ***Communications in Nonlinear Science and Numerical Simulation***, 151:109094, 2025.</span>
 - Ms. **Jingjing Song (宋晶晶)** (Master, 2024–Present)
     <!--    - B.Sc. from South China University of Technology  -->
@@ -45,6 +45,9 @@ author_profile: true
 ---
 
 ## Undergraduate Students
+- Graduates of 2026
+  - Mr. **Enze Bai (白恩泽)**: 具有动态边界条件Cahn-Hilliard方程的高效数值算法
+
 - Graduates of 2025
   - Mr. **Juncheng Yang (杨骏成)**: 变密度不可压缩流的高效能量稳定格式
   - Mr. **Anxu Zhao (赵安旭)**: 三元Cahn-Hilliard相场模型的SAV-Galerkin有限元方法
