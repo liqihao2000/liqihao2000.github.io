@@ -8,7 +8,7 @@
 
 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
 
-1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on supplementary variable method. ***Communications in Computational Physics***, Accepted, 2026.
+1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on the supplementary variable method. ***Communications in Computational Physics***, Accepted, 2026.
 
 5. **李琦**, 刘俊杰, 赵安旭, 李玉超<sup>\*</sup>. 三元Cahn-Hilliard相场模型的无条件能量稳定Galerkin有限元格式. ***浙江大学学报（理学版）***, Accepted, 2026.
 
