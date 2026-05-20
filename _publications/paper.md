@@ -4,9 +4,11 @@
 
 ---
 
+1. Jingjing Song, Junjie Liu, Yingying Xie, **Qi Li**<sup>\*</sup>. Efficient global constraint-preserving energy-stable scheme for multi-component phase-field vesicles membrane models with adhesion potential. ***Submitted***, 2026.
+
 1. **Qi Li**, Ning Cui, Yanqing He, Yingying Xie, Xiaoli Lu<sup>\*</sup>. Global constraints preserving schemes for the phase-field elastic bending energy model of lipid vesicles. ***Submitted***, 2025.
 
-4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025.
+<!-- 4. Linlin Bu, **Qi Li**<sup>\*</sup>, Liquan Mei, Ying Wang. A new Lagrange multiplier approach for the fractional-in-space modified phase field crystal equation. ***Submitted***, 2025. -->
 
 1. Mengchun Yuan, **Qi Li**<sup>\*</sup>, Xiaofeng Yang. Efficient numerical schemes for the flow-coupled binary phase-field surfactant system based on the supplementary variable method. ***Communications in Computational Physics***, Accepted, 2026.
 
